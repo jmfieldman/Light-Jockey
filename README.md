@@ -10,8 +10,8 @@ I was actually pretty successful, and made something very fun and playable. Each
 
 The official version of Auditorium was written for the iPhone many months later. The publisher, EA, sent me a cease and desist to remove Light Jockey from the app store. My version hadn’t really sold well, and I wasn’t in the mood for lawsuit, so I pulled the game. Now it's open source!
 
-![Screen1](/Images/screenshots/screenLev1.png)
-![Screen2](/Images/screenshots/screenMenu.png)
-![Screen3](/Images/screenshots/screenchrom.png)
-![Screen4](/Images/screenshots/screenpull.png)
-![Screen5](/Images/screenshots/screenspeed.png)
+![Screen1](/jmfieldman/Light-Jockey/blob/master/Images/screenshots/screenLev1.png)
+![Screen2](/jmfieldman/Light-Jockey/blob/master/Images/screenshots/screenMenu.png)
+![Screen3](/jmfieldman/Light-Jockey/blob/master/Images/screenshots/screenchrom.png)
+![Screen4](/jmfieldman/Light-Jockey/blob/master/Images/screenshots/screenpull.png)
+![Screen5](/jmfieldman/Light-Jockey/blob/master/Images/screenshots/screenspeed.png)

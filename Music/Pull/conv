@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for filename in *.wav
+do
+
+	fname=`basename $filename .wav`
+	echo "filename $fname"
+	afconvert -f caff -d ima4 $fname.wav $fname.caf
+
+done;
